@@ -1,3 +1,7 @@
 Car Loan Information
 Updated Car Loan Information
+<<<<<<< HEAD
 Different conflict line
+=======
+Conflict line
+>>>>>>> conflict-branch
